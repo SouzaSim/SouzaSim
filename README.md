@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SouzaSim
-- 👀 I’m interested in ..
+- 👀 I’m interested in .
 - 🌱 I’m currently learning ...32
 - 💞️ I’m looking to collaborate on .l
 - 📫 How to reach me ...
