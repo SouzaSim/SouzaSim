@@ -2,7 +2,7 @@
 - 👀 I’m interested in .
 - 🌱 I’m currently learning ...32
 - 💞️ I’m looking to collaborate on .l
-- 📫 How to reach me ...
+- 📫 How to reach me ...df
 
 <!---
 SouzaSim/SouzaSim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
