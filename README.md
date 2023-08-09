@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SouzaSim
 - 👀 I’m interested in .~hfg
 - 🌱 I’m currently learning ...32hguy
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a
 - 📫 How to reach me ...dfsd
 gvds
 <!---
